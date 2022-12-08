@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 I built this project to help bootcamp student a place for all the prework notes, so it is easy and convient to access and study from. The Prework notes contain HTML, CSS, Git, and Javascript.
 
 ## Installation
